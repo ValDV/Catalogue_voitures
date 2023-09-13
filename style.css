@@ -48,7 +48,7 @@ table {
 }
 
 .section1 {
-    background-image: url(r8_1.jpeg);
+    background-image: url(images/r8_1.jpeg);
     height: 800px;
     width: 100%;
     background-repeat: no-repeat;
@@ -107,7 +107,7 @@ table {
 
 .img1 {
     width: 50%;
-    background-image: url(r8_2.jpeg);
+    background-image: url(images/r8_2.jpeg);
     background-size: cover;
     min-height: 500px;
     background-position: 50% 100%;
@@ -126,7 +126,7 @@ table {
 }
 
 .img2 {
-    background-image: url(r8_3.jpeg);
+    background-image: url(images/r8_3.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -134,7 +134,7 @@ table {
 }
 
 .img3 {
-    background-image: url(r8_4.jpeg);
+    background-image: url(images/r8_4.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -172,7 +172,7 @@ table {
 .section4 {
     width: 100%;
     height: 800px;
-    background-image: url(image7.jpeg);
+    background-image: url(images/image7.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -268,7 +268,7 @@ span {
 }
 
 .section6 {
-    background-image: url(r8_5.jpeg);
+    background-image: url(images/r8_5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 88%;
@@ -276,7 +276,7 @@ span {
 }
 
 .section7 {
-    background-image: url(r8_6.jpeg);
+    background-image: url(images/r8_6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 74%;
@@ -334,7 +334,7 @@ span {
 }
 
 .section1.r8{
-    background-image: url(r8_1.jpeg);
+    background-image: url(images/r8_1.jpeg);
     height: 800px;
     width: 100%;
     background-repeat: no-repeat;
@@ -346,7 +346,7 @@ span {
 }
 
 .section1.a110{
-    background-image: url(a110_1.jpeg);
+    background-image: url(images/a110_1.jpeg);
     height: 800px;
     width: 100%;
     background-repeat: no-repeat;
@@ -358,7 +358,7 @@ span {
 }
 
 .section1.m4{
-    background-image: url(m4_1.jpeg);
+    background-image: url(images/m4_1.jpeg);
     height: 800px;
     width: 100%;
     background-repeat: no-repeat;
@@ -371,7 +371,7 @@ span {
 
 .img1.r8 {
     width: 50%;
-    background-image: url(r8_2.jpeg);
+    background-image: url(images/r8_2.jpeg);
     background-size: cover;
     min-height: 500px;
     background-position: 50% 80%;
@@ -379,7 +379,7 @@ span {
 
 .img1.a110 {
     width: 50%;
-    background-image: url(a110_2.jpeg);
+    background-image: url(images/a110_2.jpeg);
     background-size: cover;
     min-height: 500px;
     background-position: 40% 50%;
@@ -387,14 +387,14 @@ span {
 
 .img1.m4 {
     width: 50%;
-    background-image: url(m4_2.jpeg);
+    background-image: url(images/m4_2.jpeg);
     background-size: cover;
     min-height: 500px;
     background-position: 50% 90%;
 }
 
 .img2.r8 {
-    background-image: url(r8_3.jpeg);
+    background-image: url(images/r8_3.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -402,7 +402,7 @@ span {
 }
 
 .img2.a110 {
-    background-image: url(a110_3.jpeg);
+    background-image: url(images/a110_3.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -410,7 +410,7 @@ span {
 }
 
 .img2.m4 {
-    background-image: url(m4_3.jpeg);
+    background-image: url(images/m4_3.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -418,7 +418,7 @@ span {
 }
 
 .img3.r8 {
-    background-image: url(r8_4.jpeg);
+    background-image: url(images/r8_4.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -426,7 +426,7 @@ span {
 }
 
 .img3.a110 {
-    background-image: url(a110_4.jpeg);
+    background-image: url(images/a110_4.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -434,7 +434,7 @@ span {
 }
 
 .img3.m4 {
-    background-image: url(m4_4.jpeg);
+    background-image: url(images/m4_4.jpeg);
     background-repeat: no-repeat;
     height: 250px;
     background-size: cover;
@@ -442,7 +442,7 @@ span {
 }
 
 .section6.r8 {
-    background-image: url(r8_5.jpeg);
+    background-image: url(images/r8_5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 88%;
@@ -450,7 +450,7 @@ span {
 }
 
 .section6.a110 {
-    background-image: url(a110_5.jpeg);
+    background-image: url(images/a110_5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 60%;
@@ -458,7 +458,7 @@ span {
 }
 
 .section6.m4 {
-    background-image: url(m4_5.jpeg);
+    background-image: url(images/m4_5.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 65%;
@@ -466,7 +466,7 @@ span {
 }
 
 .section7.r8 {
-    background-image: url(r8_6.jpeg);
+    background-image: url(images/r8_6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 74%;
@@ -475,7 +475,7 @@ span {
 }
 
 .section7.a110 {
-    background-image: url(a110_6.jpeg);
+    background-image: url(images/a110_6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 82%;
@@ -484,7 +484,7 @@ span {
 }
 
 .section7.m4 {
-    background-image: url(m4_6.jpeg);
+    background-image: url(images/m4_6.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 15% 68%;
